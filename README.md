@@ -1,4 +1,4 @@
-#PA-CEQ
+# PA-CEQ
 PA-CEQ or Poweramp Community Equalizer is a community driven equalizer for Poweramp which can also be applied to other devices that improves audio fidelity which had been tested on the Sennheiser HD598, Focal Utopia and Origaudio Lunatune with no USB DAC, Bluetooth, a USB 3.5mm jack and a normal 3.5mm jack.
 
 ## Why make PA-CEQ? You do know this was answered a long time ago on the XDA forums.
