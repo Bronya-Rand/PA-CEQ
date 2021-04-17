@@ -1,5 +1,6 @@
 # PA-CEQ
 PA-CEQ or **P**ower**a**mp **C**ommunity **Eq**ualizer is a community driven equalizer for Poweramp, Poweramp Equalizer and other devices which that improves audio fidelity of songs.
+> PA-CEQ is not a app for Poweramp/Poweramp Equalizer. This is a equalizer value for the app.
 
 ## Why make PA-CEQ? You do know this was answered a long time ago on XDA.
 Yes. I actually used that preset before making PA-CEQ but something felt off about it. I prefered a non-bass and non-treble based preset and only a dB increase or decrease and that there wasn't a estimated dB range for that XDA post so it was up to a guess to determine the EQ numbers. PA-CEQ is based on the same preset with some major dB and bass/treble changes.
