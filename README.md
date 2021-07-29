@@ -15,6 +15,7 @@ For PA-CEQ 1.0-2.1
 For PA-CEQ 3.0 and above
 1. Go to [Releases](https://github.com/GanstaKingofSA/PA-CEQ/releases) and download the latest ZIP file in there and select the version of PA-CEQ to use.
 2. Copy the values within the screenshot to Poweramp or your device or import the preset files to Poweramp/Poweramp Equalizer.
+    > For PA-CEQ 3, you may either use the screenshot in the PA-CEQ 3-3.01 folder or import it via the Poweramp Equalizer preset inside `PA-CEQ 3 (Old)/For Poweramp Equalizer`. 
 
 ## What is your testing methodology? 
 Samsung Galaxy S9+, Note 10+ and Note 10+ in Dex Mode. Only DVC and Equalizer were used.
