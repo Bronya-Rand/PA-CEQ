@@ -1,0 +1,104 @@
+[{
+	"name": "PA-CEQ 3.0",
+	"preamp": 0.0,
+	"parametric": false,
+	"bands": [
+		{
+			"type": 0,
+			"channels": 0,
+			"frequency": 90,
+			"q": 0.0,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 1,
+			"channels": 0,
+			"frequency": 10000,
+			"q": 0.0,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 31,
+			"q": 0.0,
+			"gain": 0.0,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 62,
+			"q": 0.0,
+			"gain": -0.5534720420837402,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 124,
+			"q": 0.0,
+			"gain": 4.281429767608643,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 249,
+			"q": 0.0,
+			"gain": 4.281431198120117,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 498,
+			"q": 0.0,
+			"gain": 3.355713367462158,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 996,
+			"q": 0.0,
+			"gain": 3.52101993560791,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 1995,
+			"q": 0.0,
+			"gain": 4.281431198120117,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 3993,
+			"q": 0.0,
+			"gain": -1.8349037170410156,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 7993,
+			"q": 0.0,
+			"gain": 0.9091848134994507,
+			"color": 0
+		},
+		{
+			"type": 2,
+			"channels": 0,
+			"frequency": 16000,
+			"q": 0.0,
+			"gain": 0.0,
+			"color": 0
+		}
+	]
+}
+]
